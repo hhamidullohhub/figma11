@@ -4,15 +4,22 @@
     box-sizing: border-box;
 }
 
+.item {
+    display: flex;
+    margin-top: 200px;
+    position: relative;
+}
+
 .box {
     background-color: red;
     width: 400px;
     height: 400px;
-    margin: 0 auto;
 }
 
 .title {
     background-color: black;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    position: absolute;
 }
