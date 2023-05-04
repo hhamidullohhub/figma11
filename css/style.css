@@ -389,7 +389,7 @@ nav {
 }
 
 .section3 {
-    background-color: darkgray;
+    background-color: #D8D8EB;
     padding-top: 100px;
 }
 
@@ -425,7 +425,7 @@ nav {
     background-color: white;
     width: 450px;
     padding: 20px 0px 20px 30px;
-    border-radius: 10px;
+    border-radius: 15px 15px 0px 15px;
 }
 
 .box-text {
@@ -455,4 +455,15 @@ nav {
     margin-top: 100px;
     display: flex;
     justify-content: space-evenly;
+}
+
+.kok-strelka {
+    text-align: center;
+    padding: 100px;
+}
+
+.kok-strelka i {
+    color: blue;
+    margin: 0 10px;
+    font-size: 25px;
 }
