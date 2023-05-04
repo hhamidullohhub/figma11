@@ -180,3 +180,9 @@ nav {
 .li1 p {
     font-size: 22px;
 }
+
+.img-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
