@@ -9,7 +9,7 @@ a {
     display: inline-block;
 }
 
-ul,ol {
+ul,li {
     list-style: none;
 }
 
@@ -17,7 +17,23 @@ body {
     font-family: sans-serif;
 }
 
+nav {
+    background-color: darkgrey;
+    padding-top: 50px;
+}
+
 .container {
     max-width: 1140px;
     width: 100%;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+.all-nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-nav {
+    display: flex;
 }
