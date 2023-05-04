@@ -390,7 +390,7 @@ nav {
 
 .section3 {
     background-color: darkgray;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .hear-img-text {
@@ -441,6 +441,7 @@ nav {
 }
 
 .twoo-white {
+    margin-top: 100px;
     display: flex;
     justify-content: space-evenly;
 }
