@@ -196,8 +196,16 @@ nav {
     font-size: 60px;
 }
 
+.bringing-all {
+    margin-top: 100px;
+}
+
 .imgs-bring {
-    align-items: center;
+    align-items: start;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
 }
 
 .imgs-bring .img1 {
@@ -206,4 +214,8 @@ nav {
 
 .imgs-bring .img2 {
     width: 500px;
+}
+
+.imgs1 p {
+    font-size: 12px;
 }
