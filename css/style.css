@@ -478,6 +478,15 @@ nav {
     align-items: center;
 }
 
+.get-h {
+    font-size: 60px;
+}
+
+.get-p p {
+    line-height: 34px;
+    font-size: 22px;
+}
+
 .rog {
     display: flex;
 }
