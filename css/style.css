@@ -295,6 +295,50 @@ nav {
     background: #010032;
 }
 
+.pushing-all {
+    padding-top: 60px;
+}
+
 .ul2 {
     color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.service {
+    display: flex;
+}
+
+.service h4 {
+    margin-left: 15px;
+}
+
+.li2 h1 {
+    font-size: 48px;
+}
+
+.li3 i {
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+
+.li3 h1 {
+    font-size: 24px;
+}
+
+.li4 h1 {
+    font-size: 24px;
+}
+
+.li3 p {
+    color: #FFFFFF;
+    line-height: 28.9px;
+    margin-top: 10px;
+}
+
+.li4 p {
+    color: #FFFFFF;
+    line-height: 28.9px;
+    margin-top: 10px;
 }
