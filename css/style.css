@@ -237,5 +237,41 @@ nav {
 }
 
 .bitta-img {
-    margin: 100px 200px;
+    margin: 100px 250px;
+}
+
+.bitta-img img {
+    width: 700px;
+}
+
+.bitta-img h1 {
+    margin-top: 20px;
+}
+
+.bitta-img p {
+    font: 16px;
+    margin-top: 20px;
+}
+
+.ikkita-img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.otsuka-img img {
+    width: 500px;
+}
+
+.img-text {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.p3 {
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.origin-img img {
+    width: 440px;
 }
