@@ -442,4 +442,5 @@ nav {
 
 .twoo-white {
     display: flex;
+    justify-content: space-evenly;
 }
