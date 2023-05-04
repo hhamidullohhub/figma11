@@ -275,3 +275,14 @@ nav {
 .origin-img img {
     width: 440px;
 }
+
+.kok-box {
+    text-transform: uppercase;
+    background-color: #4543E8;
+    width: 150px;
+    color: white;
+    padding: 50px 10px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: -40px;
+}
