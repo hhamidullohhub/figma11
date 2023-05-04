@@ -133,6 +133,10 @@ nav {
     padding-top: 50px;
 }
 
+.tolqin {
+    padding-bottom: 50px;
+}
+
 .working {
     display: flex;
     justify-content: space-around;
@@ -144,6 +148,7 @@ nav {
     align-items: center;
     width: 250px;
     justify-content: space-evenly;
+    margin-left: -30px;
 }
 
 .all-1 i {
@@ -152,12 +157,26 @@ nav {
 
 .ul1 {
     display: flex;
+    justify-content: space-between;
 }
 
 .trust-all h1 {
     font-size: 48px;
 }
 
+.trust {
+    margin-bottom: 55px;
+}
+
 .all-1 p {
     line-height: 28px;
+    margin-top: 20px;
+}
+
+.li1 h1 {
+    color: #4543E8;
+}
+
+.li1 p {
+    font-size: 22px;
 }
