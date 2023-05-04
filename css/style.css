@@ -468,6 +468,10 @@ nav {
     font-size: 25px;
 }
 
+.section4 {
+    background: #E5E5E5;
+}
+
 .all-get {
     display: flex;
     justify-content: space-around;
