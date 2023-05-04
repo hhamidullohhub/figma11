@@ -499,4 +499,5 @@ nav {
 .rog h2 {
     margin-left: 10px;
     color: #4543E8;
+    text-transform: capitalize;
 }
