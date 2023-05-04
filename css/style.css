@@ -508,7 +508,17 @@ nav {
     display: flex;
 }
 
+.flex-1 h1 {
+    color: #4543E8;
+    font-size: 50px;
+}
+
 .listen {
     padding: 15px 0;
     font-size: 24px;
+}
+
+.ul-numbers {
+    display: flex;
+    justify-content: space-around;
 }
