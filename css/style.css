@@ -479,13 +479,15 @@ nav {
     align-items: center;
 }
 
-.get-h {
-    font-size: 40px;
+.get-h h1 {
+    font-size: 60px;
+    font-weight: unset;
 }
 
 .get-p p {
     line-height: 34px;
     font-size: 22px;
+    margin-top: 40px;
 }
 
 .rog {
@@ -502,6 +504,7 @@ nav {
     margin-left: 10px;
     color: #4543E8;
     text-transform: capitalize;
+    font-weight: unset;
 }
 
 .flex-1 {
@@ -511,6 +514,11 @@ nav {
 .flex-1 h1 {
     color: #4543E8;
     font-size: 50px;
+    font-weight: unset;
+}
+
+.flex-1 img {
+    margin-left: 55px;
 }
 
 .listen {
