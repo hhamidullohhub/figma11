@@ -18,7 +18,7 @@ body {
 }
 
 nav {
-    background-color: darkgrey;
+    background-color: #010032;
     padding-top: 50px;
 }
 
@@ -32,8 +32,114 @@ nav {
 .all-nav {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.boxs {
+    background-color: darkgray;
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 11px;
+    padding-top: 11px;
+}
+
+.box {
+    background-color: #010032;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
 }
 
 .img-nav {
     display: flex;
+}
+
+.img-nav h1 {
+    margin-left: 5px;
+}
+
+.carts {
+    display: flex;
+}
+
+.li-nav a {
+    color: white;
+    margin: 0px 10px;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+
+.carts i {
+    margin-left: 10px;
+}
+
+.nav-text {
+    color: white;
+    margin-left: 50px;
+}
+
+.nav-text h1 {
+    font-size: 72px;
+    line-height: 75.6px;
+}
+
+.nav-text p {
+    padding: 20px 0;
+}
+
+.input1 input {
+    padding: 20px 0px 20px 20px; 
+    border-radius: 20px;
+    border: none;
+}
+
+.input1 i {
+    margin-left: -45px;
+    color: black;
+    font-size: 20px;
+}
+
+.trophy  {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.trophy i {
+    font-size: 30px;
+}
+
+.trophy-text {
+    margin-left: 15px;
+}
+
+.nav-img img {
+    width: 500px;
+    /* height: 200px; */
+}
+
+.all-texts-img {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section1 {
+    background: #E5E5E5;
+    padding-top: 50px;
+}
+
+.steve {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: space-evenly;
+}
+
+.all-1 i {
+    color: #4543E8;
 }
