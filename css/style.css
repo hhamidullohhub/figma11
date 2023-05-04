@@ -192,6 +192,12 @@ nav {
     display: flex;
 }
 
+.work-logo p {
+    margin-left: 15px;
+    color: #4543E8;
+    text-transform: uppercase;
+}
+
 .bring-text {
     font-size: 60px;
     margin-top: 20px;
