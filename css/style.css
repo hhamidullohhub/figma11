@@ -133,6 +133,12 @@ nav {
     padding-top: 50px;
 }
 
+.working {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .steve {
     display: flex;
     align-items: center;
@@ -142,4 +148,16 @@ nav {
 
 .all-1 i {
     color: #4543E8;
+}
+
+.ul1 {
+    display: flex;
+}
+
+.trust-all h1 {
+    font-size: 48px;
+}
+
+.all-1 p {
+    line-height: 28px;
 }
