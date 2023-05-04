@@ -503,3 +503,7 @@ nav {
     color: #4543E8;
     text-transform: capitalize;
 }
+
+.flex-1 {
+    display: flex;
+}
