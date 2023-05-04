@@ -489,6 +489,7 @@ nav {
 
 .rog {
     display: flex;
+    align-items: center;
 }
 
 .rog img {
