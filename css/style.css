@@ -539,4 +539,12 @@ nav {
 
 .shop-tolqin {
     display: flex;
+    margin-left: 450px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.shop-tolqin img {
+    width: 100px;
+    height: 12px;
 }
