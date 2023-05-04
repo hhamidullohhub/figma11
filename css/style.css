@@ -411,7 +411,35 @@ nav {
     height: 15px;
 }
 
+.hear-text {
+    text-align: center;
+    margin-top: 30px;
+}
+
 .hear-text h1 {
     font-size: 60px;
     line-height: 66px;
+}
+
+.box-white {
+    background-color: white;
+    width: 450px;
+    padding: 20px 0px 20px 30px;
+    border-radius: 10px;
+}
+
+.box-text {
+    display: flex;
+}
+
+.alex-p {
+    line-height: 28px;
+}
+
+.highly {
+    padding: 15px 0;
+}
+
+.twoo-white {
+    display: flex;
 }
