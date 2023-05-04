@@ -430,6 +430,8 @@ nav {
 
 .box-text {
     display: flex;
+    margin-top: 20px;
+    align-items: center;
 }
 
 .alex-p {
@@ -438,6 +440,7 @@ nav {
 
 .highly {
     padding: 15px 0;
+    font-size: 24px;
 }
 
 .twoo-white {
