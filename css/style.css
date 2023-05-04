@@ -387,3 +387,26 @@ nav {
     padding: 20px 0;
     font-size: 24px;
 }
+
+.section3 {
+    background-color: darkgray;
+    padding-top: 50px;
+}
+
+.hear-img-text {
+    display: flex;
+    margin-left: 350px;
+    align-items: center;
+}
+
+.hear-img-text p {
+    color: #4543E8;
+    margin: 0 20px;
+    font-size: 24px;
+}
+
+.hear-img-text img {
+    width: auto;
+    width: 100px;
+    height: 15px;
+}
