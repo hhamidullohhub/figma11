@@ -468,6 +468,12 @@ nav {
     font-size: 25px;
 }
 
-.get-texts {
+.all-get {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rog {
     display: flex;
 }
