@@ -182,7 +182,28 @@ nav {
 }
 
 .img-logo {
+    margin-top: 50px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
+}
+
+.work-logo {
+    display: flex;
+}
+
+.bring-text {
+    font-size: 60px;
+}
+
+.imgs-bring {
+    align-items: center;
+}
+
+.imgs-bring .img1 {
+    width: 400px;
+}
+
+.imgs-bring .img2 {
+    width: 500px;
 }
