@@ -536,3 +536,7 @@ nav {
 .p4 {
     line-height: 30px;
 }
+
+.shop-tolqin {
+    display: flex;
+}
