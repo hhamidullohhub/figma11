@@ -213,7 +213,6 @@ nav {
 
 .imgs-bring {
     align-items: start;
-    border: 1px solid red;
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
@@ -293,6 +292,7 @@ nav {
 
 .section2 {
     background: #010032;
+    padding: 70px 0;
 }
 
 .pushing-all {
@@ -346,4 +346,44 @@ nav {
 
 .li4 img:hover {
     opacity: .7;
+}
+
+.li5 {
+    margin-left: 70px;
+}
+
+.ul3 {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    line-height: 28px;
+    margin-top: 70px;
+}
+
+.tolqin2 {
+    width: 100px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.vector2 {
+    margin-left: 90px;
+}
+
+.li7 p {
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+    text-transform: capitalize;
+    height: 50px;
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.push {
+    padding: 20px 0;
+    font-size: 24px;
 }
