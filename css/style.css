@@ -490,3 +490,8 @@ nav {
 .rog {
     display: flex;
 }
+
+.rog img {
+    width: 50px;
+    height: 10px;
+}
