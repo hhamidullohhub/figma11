@@ -553,3 +553,7 @@ nav {
     color: #4543E8;
     margin: 0 10px;
 }
+
+.shop-imgs {
+    display: flex;
+}
