@@ -567,11 +567,14 @@ nav {
 .shop-img1 h2 {
     font: 24px;
     font-weight: unset;
+    margin-top: 20px;
+    font-weight: 700;
 }
 
 .shop-img1 p {
     font-size: 18px;
     font-weight: unset;
+    margin-top: 20px;
 }
 
 .shop-texts {
