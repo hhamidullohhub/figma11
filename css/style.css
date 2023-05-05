@@ -592,3 +592,25 @@ nav {
 .shop-texts p {
     font-size: 60px;
 }
+
+.products-all {
+    margin-top: 100px;
+    color: #4543E8;
+    display: flex;
+    margin-left: 450px;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.products-all:hover {
+    border-bottom: 2px solid #4543E8;
+}
+
+.products-all h1 {
+    font-weight: unset;
+    font-size: 24px;
+}
+
+.products-all i {
+    margin-left: 20px;
+}
