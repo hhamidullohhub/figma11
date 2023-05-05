@@ -557,3 +557,7 @@ nav {
 .shop-imgs {
     display: flex;
 }
+
+.shop-img1 img {
+    width: 300px;
+}
