@@ -556,6 +556,7 @@ nav {
 
 .shop-imgs {
     display: flex;
+    justify-content: space-around;
 }
 
 .shop-img1 img {
