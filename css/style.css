@@ -557,6 +557,7 @@ nav {
 .shop-imgs {
     display: flex;
     justify-content: space-evenly;
+    margin-top: 50px;
 }
 
 .shop-img1 img {
@@ -571,4 +572,21 @@ nav {
 .shop-img1 p {
     font-size: 18px;
     font-weight: unset;
+}
+
+.shop-texts {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.shop-texts h1,p {
+    font-weight: unset;
+}
+
+.shop-texts h1 {
+    font-size: 50px;
+}
+
+.shop-texts p {
+    font-size: 60px;
 }
