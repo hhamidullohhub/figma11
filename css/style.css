@@ -726,11 +726,13 @@ nav {
 
 .work-text p {
     padding: 25px 0;
+    font-size: 15px;
+    font-weight: unset;
 }
 
 .flex-box {
     display: flex;
-    margin-left: 320px;
+    margin-left: 235px;
     align-items: center;
 }
 
@@ -740,4 +742,8 @@ nav {
 
 .work-text h1 {
     font-weight: unset;
+}
+
+.work-img img {
+    width: 570px;
 }
