@@ -26,6 +26,7 @@ nav {
     max-width: 1140px;
     width: 100%;
     margin: 0 auto;
+    border: 2px solid red;
 }
 
 .all-nav {
@@ -470,6 +471,7 @@ nav {
 .section4 {
     background: #E5E5E5;
     padding-top: 80px;
+    padding-bottom: 100px;
 }
 
 .all-get {
@@ -698,4 +700,8 @@ nav {
 .post i {
     margin-top: 5px;
     margin-left: 15px;
+}
+
+.design-all p {
+    font-size: 12px;
 }
