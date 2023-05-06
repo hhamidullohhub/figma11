@@ -613,3 +613,13 @@ nav {
 .products-all i {
     margin-left: 20px;
 }
+
+.blog-logo {
+    display: flex;
+    align-items: center;
+}
+
+.blog-logo img {
+    width: 100px;
+    height: 10px;
+}
