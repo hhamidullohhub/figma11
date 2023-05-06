@@ -623,6 +623,7 @@ nav {
     margin-left: 15px;
     color: #4543E8;
     font-weight: unset;
+    text-transform: capitalize;
 }
 
 .blog-logo img {
