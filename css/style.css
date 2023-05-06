@@ -666,6 +666,10 @@ nav {
     display: flex;
 }
 
+.vivamus-texts {
+    margin-left: 50px;
+}
+
 .vivamus-texts h3 {
     color: #4543E8;
     font-weight: unset;
