@@ -643,4 +643,5 @@ nav {
 
 .blog-kok {
     display: flex;
+    align-items: center;
 }
