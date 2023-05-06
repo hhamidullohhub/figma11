@@ -668,6 +668,8 @@ nav {
 
 .vivamus-texts {
     margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .vivamus-texts h3 {
