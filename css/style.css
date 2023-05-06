@@ -691,6 +691,7 @@ nav {
 .post {
     color: #4543E8;
     display: flex;
+    font-weight: unset;
 }
 
 .post i {
