@@ -661,3 +661,7 @@ nav {
 .blog-text-img {
     display: flex;
 }
+
+.vivamus-texts h1 {
+    padding: 20px 0;
+}
