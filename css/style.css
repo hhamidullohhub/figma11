@@ -657,3 +657,7 @@ nav {
 .blog-kok i {
     margin-left: 20px;
 }
+
+.blog-text-img {
+    display: flex;
+}
