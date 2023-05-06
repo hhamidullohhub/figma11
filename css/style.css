@@ -674,4 +674,6 @@ nav {
 
 .vivamus-texts h1 {
     padding: 20px 0;
+    font-weight: unset;
+    font-size: 30px;
 }
