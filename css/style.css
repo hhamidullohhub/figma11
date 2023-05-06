@@ -621,6 +621,8 @@ nav {
 
 .blog-logo h1 {
     margin-left: 15px;
+    color: #4543E8;
+    font-weight: unset;
 }
 
 .blog-logo img {
