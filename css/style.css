@@ -705,3 +705,34 @@ nav {
 .design-all p {
     font-size: 12px;
 }
+
+.work-about{
+    margin-top: 154px;
+}
+
+.work-img {
+    position: absolute;
+}
+
+.work-text {
+    margin-bottom: -246px;
+    position: relative;
+}
+
+.work-text {
+    text-align: center;
+}
+
+.work-text p {
+    padding: 25px 0;
+}
+
+.flex-box {
+    display: flex;
+    margin-left: 320px;
+    align-items: center;
+}
+
+.flex-box i {
+    margin-left: 15px;
+}
