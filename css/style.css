@@ -747,3 +747,9 @@ nav {
 .work-img img {
     width: 570px;
 }
+
+.about {
+    background-color: #7471ff;
+    width: 570px;
+    height: 500px;
+}
