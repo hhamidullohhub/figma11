@@ -658,6 +658,10 @@ nav {
     margin-left: 20px;
 }
 
+.blog-texts-imgs {
+    margin-top: 100px;
+}
+
 .blog-text-img {
     display: flex;
 }
