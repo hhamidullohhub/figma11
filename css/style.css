@@ -687,3 +687,13 @@ nav {
 .vivamus-texts p {
     line-height: 32px;
 }
+
+.post {
+    color: #4543E8;
+    display: flex;
+}
+
+.post i {
+    margin-top: 5px;
+    margin-left: 15px;
+}
