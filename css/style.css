@@ -630,3 +630,8 @@ nav {
     width: 100px;
     height: 10px;
 }
+
+.blog-text h1 {
+    text-transform: capitalize;
+    font-weight: unset;
+}
