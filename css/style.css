@@ -619,6 +619,10 @@ nav {
     align-items: center;
 }
 
+.blog-logo h1 {
+    
+}
+
 .blog-logo img {
     width: 100px;
     height: 10px;
