@@ -640,3 +640,7 @@ nav {
     display: flex;
     align-items: center;
 }
+
+.blog-kok {
+    display: flex;
+}
