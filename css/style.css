@@ -664,6 +664,7 @@ nav {
 
 .blog-text-img {
     display: flex;
+    margin-top: 60px;
 }
 
 .vivamus-texts {
