@@ -706,8 +706,15 @@ nav {
     font-size: 12px;
 }
 
+.work-all {
+    display: flex;
+    border: 2px solid black;
+    padding-top: 150px;
+    margin-top: -155px;
+}
+
 .work-about{
-    margin-top: 154px;
+    margin-top: 125px;
 }
 
 .work-img {
