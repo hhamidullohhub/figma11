@@ -638,4 +638,5 @@ nav {
 
 .blog-texts {
     display: flex;
+    align-items: center;
 }
