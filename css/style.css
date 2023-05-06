@@ -647,6 +647,7 @@ nav {
     display: flex;
     align-items: center;
     background-color: #4543E8;
+    width: 230px;
 }
 
 .blog-kok i {
