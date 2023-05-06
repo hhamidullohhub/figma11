@@ -677,3 +677,7 @@ nav {
     font-weight: unset;
     font-size: 30px;
 }
+
+.vivamus-texts p {
+    line-height: 32px;
+}
