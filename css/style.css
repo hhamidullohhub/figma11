@@ -635,6 +635,7 @@ nav {
     text-transform: capitalize;
     font-weight: unset;
     font-size: 50px;
+    margin-top: 20px;
 }
 
 .blog-texts {
