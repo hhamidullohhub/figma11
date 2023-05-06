@@ -645,3 +645,7 @@ nav {
     display: flex;
     align-items: center;
 }
+
+.blog-kok i {
+    margin-left: 20px;
+}
