@@ -634,6 +634,7 @@ nav {
 .blog-text h1 {
     text-transform: capitalize;
     font-weight: unset;
+    font-size: 50px;
 }
 
 .blog-texts {
