@@ -758,7 +758,7 @@ nav {
 
 footer {
     background-color: #010032;
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 .contact {
@@ -838,4 +838,8 @@ footer {
     cursor: pointer;
     color: darkgray;
     transition: .4s;
+}
+
+main {
+    background-color: #010032;
 }
