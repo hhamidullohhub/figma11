@@ -820,9 +820,15 @@ footer {
 }
 
 .li p {
-    margin-top: 10px;
+    margin-top: 15px;
+}
+
+.li p:hover {
+    cursor: pointer;
+    color: darkgray;
+    transition: .4s;
 }
 
 .li2 p {
-    margin-top: 10px;
+    margin-top: 15px;
 }
