@@ -710,6 +710,7 @@ nav {
     display: flex;
     text-align: center;
     justify-content: space-around;
+    color: white;
 }
 
 .work-bag {
@@ -720,6 +721,16 @@ nav {
 .work-bag p {
     padding: 40px 0;
     font-size: 12px;
+}
+
+.view {
+    display: flex;
+    align-items: center;
+    margin-left: 90px;
+}
+
+.view i {
+    margin-left: 15px;
 }
 
 
