@@ -779,9 +779,30 @@ footer {
 
 .alex-mith {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .alexmith-all {
     display: flex;
     color: white;
+}
+
+.box-radius-all {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+}
+
+.radius1 {
+    border: 2px solid darkgrey;
+    width: 100px;
+    padding: 25px 80px;
+    border-radius: 25px;
+}
+
+.radius2 {
+    width: 100px;
+    background-color: #2320c5;
+    padding: 15px 25px;
+    border-radius: 25px;
 }
