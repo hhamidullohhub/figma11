@@ -832,3 +832,9 @@ footer {
 .li2 p {
     margin-top: 15px;
 }
+
+.li2 p:hover {
+    cursor: pointer;
+    color: darkgray;
+    transition: .4s;
+}
