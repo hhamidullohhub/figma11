@@ -815,19 +815,23 @@ footer {
 .alex-texts {
     margin: 0 50px;
     height: 20px;
+    transition: .6s;
 }
 
 .alex-texts:hover {
     border-bottom: 1px solid darkgrey;
+    cursor: pointer;
 }
 
 .alex-texts2 {
     margin: 0 50px;
     height: 20px;
+    transition: .6s;
 }
 
 .alex-texts2:hover {
     border-bottom: 1px solid darkgray;
+    cursor: pointer;
 }
 
 .li p {
@@ -857,8 +861,20 @@ main {
     color: white;
     display: flex;
     justify-content: space-around;
+    font-weight: unset;
+    font-size: 10px;
 }
 
 .ulfooter {
     display: flex;
+}
+
+.ulfooter p {
+    margin-left: 15px;
+    transition: .6s;
+}
+
+.ulfooter p:hover {
+    color: darkgray;
+    cursor: pointer;
 }
