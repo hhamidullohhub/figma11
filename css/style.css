@@ -757,3 +757,8 @@ nav {
 footer {
     background-color: #010032;
 }
+
+.contact {
+    display: flex;
+    align-items: center;
+}
