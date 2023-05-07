@@ -706,57 +706,15 @@ nav {
     font-size: 12px;
 }
 
-.work-all {
+.work-about {
     display: flex;
-    border: 2px solid black;
-    padding-top: 150px;
-    margin-top: -155px;
-}
-
-.work-about{
-    margin-top: 125px;
-}
-
-.work-img {
-    position: absolute;
-}
-
-.work-text {
-    margin-bottom: -246px;
-    position: relative;
-}
-
-.work-text {
     text-align: center;
-    color: white;
+    justify-content: space-around;
 }
 
-.work-text p {
-    padding: 25px 0;
-    font-size: 15px;
-    font-weight: unset;
+.work-bag {
+    background-color: #4543E8;
+    padding: 50px 90px;
 }
 
-.flex-box {
-    display: flex;
-    margin-left: 235px;
-    align-items: center;
-}
 
-.flex-box i {
-    margin-left: 15px;
-}
-
-.work-text h1 {
-    font-weight: unset;
-}
-
-.work-img img {
-    width: 570px;
-}
-
-.about {
-    background-color: #7471ff;
-    width: 570px;
-    height: 500px;
-}
