@@ -758,6 +758,7 @@ nav {
 
 footer {
     background-color: #010032;
+    padding: 100px 0;
 }
 
 .contact {
@@ -782,9 +783,11 @@ footer {
     justify-content: space-evenly;
 }
 
+
 .alexmith-all {
     display: flex;
     color: white;
+    font-size: 12px;
 }
 
 .box-radius-all {
@@ -805,4 +808,12 @@ footer {
     background-color: #2320c5;
     padding: 15px 25px;
     border-radius: 25px;
+}
+
+.alex-texts {
+    padding: 0 50px;
+}
+
+.alex-texts2 {
+    padding: 0 50px;
 }
