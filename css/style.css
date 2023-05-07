@@ -726,7 +726,7 @@ nav {
 
 .work-bag2 h1 {
     font-weight: unset;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .work-bag2 {
@@ -737,6 +737,7 @@ nav {
 .work-bag2 p {
     padding: 40px 0;
     font-size: 12px;
+    line-height: 28px;
 }
 
 .work-bag p {
