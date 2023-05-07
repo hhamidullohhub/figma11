@@ -843,3 +843,12 @@ footer {
 main {
     background-color: #010032;
 }
+.all-Template {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ulfooter {
+    display: flex;
+}
