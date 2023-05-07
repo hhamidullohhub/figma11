@@ -795,12 +795,13 @@ footer {
     display: flex;
     justify-content: space-evenly;
     width: 300px;
+    margin-top: ;
 }
 
 .radius1 {
     border: 2px solid darkgrey;
     width: 100px;
-    padding: 25px 80px;
+    padding: 18px 80px;
     border-radius: 25px;
 }
 
