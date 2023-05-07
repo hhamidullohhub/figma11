@@ -770,3 +770,9 @@ footer {
 .contact h2 {
     margin-left: 15px;
 }
+
+.something {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+}
