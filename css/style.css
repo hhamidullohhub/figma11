@@ -799,7 +799,7 @@ footer {
 }
 
 .radius1 {
-    border: 2px solid darkgrey;
+    border: 1px solid rgb(132, 132, 132);
     width: 100px;
     padding: 18px 80px;
     border-radius: 25px;
@@ -813,11 +813,21 @@ footer {
 }
 
 .alex-texts {
-    padding: 0 50px;
+    margin: 0 50px;
+    height: 20px;
+}
+
+.alex-texts:hover {
+    border-bottom: 1px solid darkgrey;
 }
 
 .alex-texts2 {
-    padding: 0 50px;
+    margin: 0 50px;
+    height: 20px;
+}
+
+.alex-texts2:hover {
+    border-bottom: 1px solid darkgray;
 }
 
 .li p {
