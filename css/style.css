@@ -761,4 +761,10 @@ footer {
 .contact {
     display: flex;
     align-items: center;
+    margin-left: 60px;
+    color: white;
+}
+
+.contact h2 {
+    margin-left: 15px;
 }
