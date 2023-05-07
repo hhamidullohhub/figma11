@@ -714,7 +714,12 @@ nav {
 
 .work-bag {
     background-color: #4543E8;
-    padding: 50px 90px;
+    padding: 50px 145px;
+}
+
+.work-bag p {
+    padding: 40px 0;
+    font-size: 12px;
 }
 
 
