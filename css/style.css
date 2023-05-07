@@ -777,6 +777,11 @@ footer {
     text-align: center;
 }
 
+.alex-mith {
+    display: flex;
+}
+
 .alexmith-all {
     display: flex;
+    color: white;
 }
