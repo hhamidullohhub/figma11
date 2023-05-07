@@ -714,10 +714,19 @@ nav {
 }
 
 .work-bag {
-    /* background-color: #5956e8; */
     padding: 50px 145px;
     background-image: url(/img/IMAGE\ \(40\).png);
     background-size: 100%;
+}
+
+.work-bag h1 {
+    font-weight: unset;
+    font-size: 30px;
+}
+
+.work-bag2 h1 {
+    font-weight: unset;
+    font-size: 30px;
 }
 
 .work-bag2 {
